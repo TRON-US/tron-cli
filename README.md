@@ -21,6 +21,12 @@ TRON-CLI is a command line tool that allows developers to quickly set up and man
 
 * Project on [Pypi](https://pypi.org/project/troncli/)
 
+# Notice
+
+## 1. Event node an grid api is not avaiable.
+## 2. Go version tron-cli support newest java-tron version 3.6.1, check it out here: https://github.com/TRON-US/go-tron-cli 
+
+
 ------
 
 ## Install
